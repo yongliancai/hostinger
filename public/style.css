@@ -1,0 +1,38 @@
+/* Add your styles here */
+#chatWindow {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 600px;
+}
+
+#chatHistory {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+#chatInput {
+    width: 80%;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+}
+
+.message {
+    margin-bottom: 8px;
+    padding: 5px;
+}
+
+.bot-message span {
+    font-weight: bold;
+    color: #4A90E2;
+}
+
+.user-message span {
+    font-weight: bold;
+    color: #4CAF50;
+}
+
