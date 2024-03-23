@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     } else {
         // 注意：这里你需要将 'your-app-id.REGION_ID.r.appspot.com' 替换为你的实际 App Engine 应用的 URL
         // 并且确保使用 wss 协议（安全的 WebSocket）
-        wsUrl = 'wss://webavr-b9273.uc.r.appspot.com';
+        wsUrl = 'https://nckuchat.online/';
     }
     const ws = new WebSocket(wsUrl);
 
