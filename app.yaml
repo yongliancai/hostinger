@@ -1,9 +1,0 @@
-# [START gae_flexible_quickstart_yaml]
-runtime: nodejs20
-env: flex
-
-env_variables:
-  OPENAI_API_KEY: "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"
-
-entrypoint: node app.js
-
