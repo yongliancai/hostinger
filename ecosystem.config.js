@@ -3,7 +3,7 @@ module.exports = {
       name: "app",
       script: "./app.js",
       env: {
-        "OPENAI_API_KEY": "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"
+        "OPENAI_API_KEY": "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"
       }
     }]
   };
