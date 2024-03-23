@@ -1,6 +1,0 @@
-# [START gae_flexible_quickstart_yaml]
-runtime: nodejs20
-env: flex
-
-entrypoint: node app.js
-
